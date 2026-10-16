@@ -23,5 +23,8 @@
     "mcp"
   ],
   "icon": ".claude-plugin/icon.png",
-  "privacyPolicyUrl": "https://www.measure.co/privacy"
+  "privacyPolicyUrl": "https://www.measure.co/privacy",
+  "termsOfServiceUrl": "https://www.measure.co/terms",
+  "documentationUrl": "https://www.measure.co/app/mcp",
+  "supportUrl": "https://github.com/measure-co/measure-claude-plugin/issues"
 }
