@@ -1,6 +1,6 @@
 # Measure for Claude
 
-Official [Measure](https://www.measure.co) connector. Track and improve how your brand appears in AI search — ChatGPT, Perplexity, Gemini, Claude and Google AI Overviews.
+The [Measure](https://www.measure.co) plugin for Claude. Track and improve how your brand appears in AI search — ChatGPT, Perplexity, Gemini, Claude and Google AI Overviews.
 
 ## What you get
 - **Remote MCP server** `https://www.measure.co/api/mcp` (OAuth 2.1 — sign in with your Measure account, no API keys)

@@ -1,7 +1,8 @@
 {
   "name": "measure",
-  "version": "1.0.0",
-  "description": "Official Measure connector: track how your brand shows up in ChatGPT, Perplexity, Gemini, Claude and Google AI Overviews \u2014 visibility, citations, competitors, source gaps, GA4/Search Console AI traffic and page audits.",
+  "displayName": "Measure",
+  "version": "1.0.1",
+  "description": "Track how your brand shows up in ChatGPT, Perplexity, Gemini, Claude and Google AI Overviews \u2014 visibility, citations, competitors, source gaps, GA4/Search Console AI traffic and page audits.",
   "author": {
     "name": "Measure",
     "email": "maveninnovationltd@gmail.com",
