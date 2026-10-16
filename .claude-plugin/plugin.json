@@ -1,0 +1,10 @@
+{
+  "name": "measure",
+  "version": "1.0.0",
+  "description": "Official Measure connector: track how your brand shows up in ChatGPT, Perplexity, Gemini, Claude and Google AI Overviews — visibility, citations, competitors, source gaps, GA4/Search Console AI traffic and page audits.",
+  "author": { "name": "Maven Innovation Ltd (Measure)", "email": "maveninnovationltd@gmail.com", "url": "https://www.measure.co" },
+  "homepage": "https://www.measure.co/app/mcp",
+  "repository": "https://github.com/measure-co/measure-claude-plugin",
+  "license": "MIT",
+  "keywords": ["seo", "geo", "aeo", "ai-search", "ai-visibility", "llm-mentions", "citations", "marketing", "mcp"]
+}

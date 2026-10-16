@@ -1,0 +1,15 @@
+{
+  "name": "measure",
+  "owner": { "name": "Maven Innovation Ltd (Measure)", "email": "maveninnovationltd@gmail.com" },
+  "metadata": { "description": "Official Measure plugins for AI search visibility." },
+  "plugins": [
+    {
+      "name": "measure",
+      "source": "./",
+      "description": "Track and improve your brand's visibility in AI search (ChatGPT, Perplexity, Gemini, Claude, AI Overviews).",
+      "version": "1.0.0",
+      "category": "marketing",
+      "homepage": "https://www.measure.co/app/mcp"
+    }
+  ]
+}
