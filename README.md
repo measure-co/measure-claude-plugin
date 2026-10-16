@@ -17,7 +17,7 @@ Tools include visibility summary/history, share of voice vs competitors, citatio
 Then run `/mcp`, choose **measure**, and sign in. Claude Desktop / claude.ai users can instead add a custom connector with URL `https://www.measure.co/api/mcp`.
 
 ## Requirements
-A Measure account (free plan available). Data access is scoped to your workspace; tools are read-only except saving reports/drafts and brand facts.
+A paid Measure subscription — see [pricing](https://www.measure.co/pricing). Data access is scoped to your workspace. Most tools only read data; some save reports, drafts or brand facts to your workspace, or use your plan credits for live data.
 
 ## Support & privacy
 - Docs: https://www.measure.co/app/mcp
