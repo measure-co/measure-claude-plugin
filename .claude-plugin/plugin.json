@@ -21,5 +21,7 @@
     "citations",
     "marketing",
     "mcp"
-  ]
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://www.measure.co/privacy"
 }
