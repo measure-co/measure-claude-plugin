@@ -12,7 +12,7 @@
       "name": "measure",
       "source": "./",
       "description": "Track and improve your brand's visibility in AI search (ChatGPT, Perplexity, Gemini, Claude, AI Overviews).",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "marketing",
       "homepage": "https://www.measure.co/app/mcp"
     }
