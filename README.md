@@ -24,4 +24,4 @@ A Measure account (free plan available). Data access is scoped to your workspace
 - Privacy: https://www.measure.co/privacy · Terms: https://www.measure.co/terms
 - Contact: maveninnovationltd@gmail.com
 
-MIT © Maven Innovation Ltd
+MIT © Measure (Maven Innovation Ltd)
