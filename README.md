@@ -11,7 +11,7 @@ Tools include visibility summary/history, share of voice vs competitors, citatio
 
 ## Install
 ```
-/plugin marketplace add measure-co/measure-claude-plugin
+/plugin marketplace add tarunkapoor1/measure-claude-plugin
 /plugin install measure@measure
 ```
 Then run `/mcp`, choose **measure**, and sign in. Claude Desktop / claude.ai users can instead add a custom connector with URL `https://www.measure.co/api/mcp`.
