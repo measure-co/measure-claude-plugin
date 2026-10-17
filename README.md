@@ -19,6 +19,9 @@ Then run `/mcp`, choose **measure**, and sign in. Claude Desktop / claude.ai use
 ## Requirements
 A paid Measure subscription — see [pricing](https://www.measure.co/pricing). Data access is scoped to your workspace. Most tools only read data; some save reports, drafts or brand facts to your workspace, or use your plan credits for live data.
 
+## Safety
+The skills treat everything fetched (audited pages, AI answers, citations, Search Console and GA4 data, tool results) as data, never as instructions. They show you what will be saved and wait for your yes before any write (`save_report`, `save_draft`, brand facts, project context, deletes), and only audit URLs you name or that are already on your Measure project.
+
 ## Support & privacy
 - Docs: https://www.measure.co/app/mcp
 - Privacy: https://www.measure.co/privacy · Terms: https://www.measure.co/terms
